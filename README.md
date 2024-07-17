@@ -18,8 +18,9 @@
 
 
 ### ✍️ Random Dev Quote
-<p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p><br><br>
+<p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yqnnbr5vmo5v3odejxws4gws44)
 ---
 [![](https://visitcount.itsvg.in/api?id=menaria123&icon=0&color=6)](https://visitcount.itsvg.in)
 
