@@ -1,4 +1,4 @@
-<div style="background-color: #003049; padding: 20px; border-radius: 10px;">
+<body style="background-color: #cdb4db; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Kusum Meanria</h1>
 <h3 align="center">I am Kusum Menaria a CSE(AIML) student at Sir Padampat Singhania University. A passionate developer and aspiring data scientist with experience in machine learning, and web development. Here you'll find a showcase of my projects, skills, and experiences.</h3>
 
@@ -24,4 +24,4 @@
 [![](https://visitcount.itsvg.in/api?id=menaria123&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+</body>
