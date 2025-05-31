@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Kusum Menaria</h1>
+<h3 align="center">A passionate AIML student from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on ****
 - 🌱 I’m currently learning **[Tech you're learning]**
 - 👯 I’m looking to collaborate on **[Open source/project type]**
 - 🤝 I’m looking for help with **[Something you need help with]**
