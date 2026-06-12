@@ -26,52 +26,10 @@
 - 🔬 Deep diving into **Deep Learning**, **Computer Vision** & **Generative AI**
 - 🏆 **Smart India Hackathon 2023 Winner** — Avalanche detection, endorsed by Ministry of Defence
 - 🥇 **Teckathon 2025 Winner** @ Xebia — Built "CRAM", an AI-powered study assistant
-- 🏥 Built real-time **burn severity classifier** for telemedicine using Grad-CAM + MobileNetV2
-- 🏗️ Deployed **YOLOv8** object detection API for smart construction/architectural analysis
+- 🌍 Top 5 Team — Innovation Design & Entrepreneurship Bootcamp (Top 50 nationally)
 - 🤝 SPSU Placement Student Coordinator
 - 📍 Mumbai, India
-
----
-
-## 🚀 Featured Projects
-
-### 🏗️ Door & Window Detection — YOLOv8
-> Real-time architectural element detection in blueprint images
-
-- Trained a custom **YOLOv8** model on a labelled blueprint dataset
-- Built a **RESTful inference API** returning real-time JSON results
-- Enables integration into smart construction & architectural analysis tools
-
-[![Repo](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
-
-### 🎓 EduV — AI-Powered Educational Platform
-> Making learning immersive & accessible for underserved communities
-
-- AI-generated **videos** for interactive, immersive learning experiences
-- Enhances engagement, comprehension, and accessibility
-- Designed to bridge the education gap with Generative AI
-
-[![Repo](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
-
-### 🔥 Burn Severity Classifier *(@ Xebia AI/ML Internship)*
-> Medical AI for real-time telemedicine diagnostics
-
-- Compared **Custom CNN vs MobileNetV2** on 1,334+ medical images
-- Applied **Grad-CAM** for explainable AI heatmap visualizations
-- Deployed via **Streamlit** for real-time burn grading & treatment recommendations
-
----
-
-### 📊 HR KPI Dashboard *(@ Sensys Technology)*
-> Power BI dashboards that improved reporting efficiency by 40%
-
-- Created feature specs for onboarding & payroll modules
-- Built **Power BI dashboards** tracking HR KPIs
-- Conducted competitive analysis to drive product enhancements
+- 💬 Ask me about **YOLOv8, Generative AI, Power BI, Deep Learning**
 
 ---
 
@@ -124,20 +82,10 @@
 
 | 🏅 | Achievement | Year |
 |---|---|---|
-| 🥇 | **Smart India Hackathon Winner** — Avalanche detection system (Ministry of Defence) | 2023 |
+| 🥇 | **Smart India Hackathon Winner** — Avalanche detection (Ministry of Defence) | 2023 |
 | 🥇 | **Teckathon Winner** @ Xebia — "CRAM" AI-powered study assistant | 2025 |
 | 🎖️ | **Top 5 Team** — Innovation Design & Entrepreneurship Bootcamp (Top 50 nationally) | 2023 |
 | 🤝 | **SPSU Placement Student Coordinator** | 2023–Present |
-
----
-
-## 💼 Work Experience
-
-**🔬 AI/ML Intern — Xebia IT Architects Pvt. Ltd.** *(Jun 2025 – Jul 2025)*
-Burn severity classification · Grad-CAM XAI · Streamlit telemedicine app
-
-**📊 Business Analyst Intern — Sensys Technology Pvt. Ltd.** *(May 2024 – Jul 2024)*
-Power BI dashboards · HR KPI reporting (+40% efficiency) · Competitive analysis
 
 ---
 
@@ -148,25 +96,72 @@ Power BI dashboards · HR KPI reporting (+40% efficiency) · Competitive analysi
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menaria123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaria123&layout=compact&langs_count=7&theme=tokyonight"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=menaria123&theme=midnight-purple&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🐍 Contribution Snake
 
-- ☁️ **Generative AI with AWS** — Amazon Web Services
-- 🔷 **Microsoft Azure Fundamentals** — Microsoft
-- 🐧 **Command Line Basics in Linux** — Coursera
-- 🤖 **Machine Learning** — Skill Vertex
-- 🧬 **Deep Learning** — IIT Ropar (NPTEL)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menaria123/menaria123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menaria123/menaria123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/menaria123/menaria123/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kusum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=menaria123&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kusum2004?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/kusum2004/)
+
+</div>
+
+---
+
+## 🌊 Random Dev Quote
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎵 Vibing to
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
+
+</div>
+
+---
+
+## 🐱 My GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=menaria123&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
